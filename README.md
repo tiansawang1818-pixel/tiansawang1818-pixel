@@ -1,156 +1,82 @@
-<!-- MR.BURGER · GitHub Profile -->
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="MR.Burger — A little curiosity. A lot of building. Software developer, ICT at Mahidol University, Thailand." />
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="#a-person-before-a-profile">THE PERSON</a> &nbsp; / &nbsp;
+  <a href="#whats-in-my-kitchen">THE TOOLKIT</a> &nbsp; / &nbsp;
+  <a href="#a-few-things-im-curious-about">THE CURIOSITY</a> &nbsp; / &nbsp;
+  <a href="#the-commit-trail">THE ACTIVITY</a>
+</p>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:164E63,100:06B6D4&height=230&section=header&text=MR.BURGER&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20CURIOUS%20BY%20NATURE&descAlignY=57&descSize=15"
-  alt="MR.BURGER — Software Developer"
-/>
+<br />
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+MR.Burger+%F0%9F%91%8B;From+curiosity+to+code.;Exploring+Web%2C+Data+%26+AI.;Always+learning.+Always+building."
-  alt="Hi there, I'm MR.Burger. Always learning. Always building."
-/>
+## A person before a profile.
 
-<br/>
+Hey, I’m **MR.Burger** 🍔 — a **Software Developer** from **Thailand**, studying **ICT at Mahidol University**.
 
-**ICT @ Mahidol University** &nbsp; · &nbsp; **Thailand 🇹🇭**
+I’m interested in how software comes together: what people see in a browser, what happens on the server, and how data moves between them. Along the way, I’m exploring **AI**, **Data Science**, and **Computer Networking**.
 
-Building my skills, exploring ideas, and turning them into software.
+**The mission?** Keep learning, turn ideas into working software, and build something amazing.
 
-<br/>
+<br />
 
-<a href="https://github.com/tiansawang1818-pixel">
-  <img src="https://img.shields.io/badge/GitHub-tiansawang1818--pixel-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub profile"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=tiansawang1818-pixel&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
+## What’s in my kitchen?
 
-<br/><br/>
+Different ingredients. Plenty of things to build.
 
-[About](#-about-me) &nbsp; / &nbsp;
-[Tech Stack](#-tech-stack) &nbsp; / &nbsp;
-[GitHub Stats](#-github-stats) &nbsp; / &nbsp;
-[Contributions](#-contributions)
+| | Ingredients |
+| :--- | :--- |
+| **The foundations** | Python · JavaScript · Java · SQL |
+| **What you see** | HTML · CSS · JavaScript |
+| **Behind the scenes** | Node.js · Express.js · MySQL |
+| **On the workbench** | Git · GitHub · VS Code · Linux · Postman · npm |
 
-</div>
+<p align="center">
+  <br />
+  <img src="https://skillicons.dev/icons?i=python,js,java,html,css,nodejs,express,mysql,git&amp;perline=9&amp;theme=dark" alt="Python, JavaScript, Java, HTML, CSS, Node.js, Express.js, MySQL, Git" />
+</p>
 
-<br/>
+<br />
 
-## 👨‍💻 About Me
+## A few things I’m curious about.
 
-```javascript
-const burger = {
-  name: "MR.Burger",
-  basedIn: "Thailand 🇹🇭",
-  education: "ICT @ Mahidol University",
-  role: "Software Developer",
+**01 / WEB & SOFTWARE**<br />
+Building for the web and learning how to design software that fits together.
 
-  interests: [
-    "Web Development",
-    "Software Engineering",
-    "Artificial Intelligence",
-    "Data Science",
-    "Computer Networking"
-  ],
+**02 / DATA & AI**<br />
+Exploring patterns in data and the possibilities of intelligent applications.
 
-  mindset: "Stay curious. Keep building.",
-  currentMission: "Turn ideas into something useful 🚀"
-};
-```
+**03 / NETWORKS**<br />
+Understanding how devices communicate and how everything connects.
 
-<br/>
+<br />
 
-## 🛠 Tech Stack
+> “Great software starts with curiosity, creativity, and the courage to build.”
 
-<div align="center">
+<br />
 
-**LANGUAGES**
+## The commit trail.
 
-<img
-  src="https://skillicons.dev/icons?i=python,js,java&theme=dark"
-  alt="Python, JavaScript, Java"
-/>
+Small steps, experiments, and things learned along the way.
 
-<br/><br/>
-
-**WEB & DATABASE**
-
-<img
-  src="https://skillicons.dev/icons?i=html,css,nodejs,express,mysql&theme=dark"
-  alt="HTML, CSS, Node.js, Express.js, MySQL"
-/>
-
-<br/><br/>
-
-**TOOLS & PLATFORMS**
-
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,npm&theme=dark"
-  alt="Git, GitHub, VS Code, Linux, Postman, npm"
-/>
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  width="54%"
-  src="https://github-stats-extended.vercel.app/api?username=tiansawang1818-pixel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1"
-  alt="MR.Burger's GitHub statistics"
-/>
-<img
-  width="41%"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=tiansawang1818-pixel&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1"
-  alt="Most used programming languages"
-/>
-
-</div>
-
-<br/>
-
-## 🐍 Contributions
-
-<div align="center">
-
-*One contribution at a time.*
-
-<br/>
+<p align="center">
+  <img width="55%" src="https://github-stats-extended.vercel.app/api?username=tiansawang1818-pixel&amp;show_icons=true&amp;hide_border=true&amp;bg_color=252724&amp;title_color=FFC66A&amp;icon_color=FF795F&amp;text_color=F6F3E9" alt="MR.Burger’s GitHub statistics" />
+  <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tiansawang1818-pixel&amp;layout=compact&amp;hide_border=true&amp;bg_color=252724&amp;title_color=FFC66A&amp;text_color=F6F3E9" alt="Most used languages" />
+</p>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/tiansawang1818-pixel/tiansawang1818-pixel/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/tiansawang1818-pixel/tiansawang1818-pixel/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/tiansawang1818-pixel/tiansawang1818-pixel/output/github-contribution-grid-snake.svg"
-    alt="Animated snake following my GitHub contributions"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiansawang1818-pixel/tiansawang1818-pixel/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiansawang1818-pixel/tiansawang1818-pixel/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="A snake following my GitHub contributions" src="https://raw.githubusercontent.com/tiansawang1818-pixel/tiansawang1818-pixel/output/github-contribution-grid-snake.svg" />
 </picture>
 
-</div>
+<br />
 
-<br/><br/>
+---
 
-<div align="center">
-
-**“Great software starts with curiosity and the courage to build.”**
-
-<sub>Thanks for stopping by — see you in the next commit.</sub>
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:164E63,100:06B6D4&height=110&section=footer"
-  alt=""
-/>
-
-</div>
+<p align="center">
+  <b>That’s me. Still learning. Still cooking. 🍔</b><br />
+  <sub>MR.Burger · ICT, Mahidol University · Thailand</sub><br /><br />
+  <a href="https://github.com/tiansawang1818-pixel?tab=repositories">Take a look at what I’m building ↗</a>
+</p>
