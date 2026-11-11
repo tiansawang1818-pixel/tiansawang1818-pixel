@@ -85,16 +85,14 @@ Different ingredients. Plenty of things to build.
 
 | | Ingredients |
 | :--- | :--- |
-| **The foundations** | Python · TypeScript · JavaScript · Java · SQL |
-| **What you see** | React · Next.js · HTML · CSS · Tailwind CSS · MapLibre |
-| **Behind the scenes** | Node.js · Express.js · FastAPI · Supabase · REST APIs · Celery |
-| **Where data lives** | PostgreSQL · PostGIS · MySQL · Redis |
-| **Special sauce** | Rust → WebAssembly · geospatial data · row-level security |
-| **On the workbench** | Git · GitHub Actions · Docker · Linux · VS Code · Postman · npm |
+| **The foundations** | Python · JavaScript · Java · SQL |
+| **What you see** | HTML · CSS · JavaScript |
+| **Behind the scenes** | Node.js · Express.js · MySQL |
+| **On the workbench** | Git · GitHub · VS Code · Linux · Postman · npm |
 
 <p align="center">
   <br />
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,react,nextjs,tailwind,nodejs,express,fastapi,supabase,postgres,mysql,redis,rust,wasm,docker,git,githubactions,linux&perline=10&theme=dark" alt="Python, TypeScript, JavaScript, Java, React, Next.js, Tailwind CSS, Node.js, Express.js, FastAPI, Supabase, PostgreSQL, MySQL, Redis, Rust, WebAssembly, Docker, Git, GitHub Actions, Linux" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,html,css,nodejs,express,mysql,git&amp;perline=9&amp;theme=dark" alt="Python, JavaScript, Java, HTML, CSS, Node.js, Express.js, MySQL, Git" />
 </p>
 
 <br />
