@@ -20,10 +20,10 @@
  <text x="48" y="264" font-size="100" font-weight="900" letter-spacing="-7">MR.BURGER</text>
  <text x="55" y="327" font-size="37" font-weight="700" letter-spacing="-1.3">A little curiosity.</text>
  <text x="55" y="374" font-size="37" font-weight="700" letter-spacing="-1.3">A lot of <tspan fill="#e34d28">building.</tspan></text>
- <text x="57" y="421" font-size="17" fill="#64665d">Exploring web development, data, and AI.</text>
- <text x="57" y="448" font-size="17" fill="#64665d">Learning how things work. Making them my own.</text>
+ <text x="57" y="421" font-size="17" fill="#64665d">Shipping full-stack apps, APIs, and geospatial systems.</text>
+ <text x="57" y="448" font-size="17" fill="#64665d">Open to software engineering internships.</text>
  <rect x="55" y="490" width="266" height="42" rx="21" fill="#252724"/>
- <circle cx="77" cy="511" r="4" fill="#b9e771"/>
+ <circle cx="77" cy="511" r="4" fill="#b9e771"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
  <text x="91" y="516" font-size="12" font-weight="700" fill="#f6f3e9" letter-spacing=".5">MAHIDOL UNIVERSITY / ICT</text>
  <text x="342" y="516" font-size="13" font-weight="700">BASED IN THAILAND ↗</text>
  <path d="M54 573H700" stroke="#252724" stroke-opacity=".2"/>
@@ -50,7 +50,7 @@
  <path d="M0 40H366" stroke="#43453f"/>
  <circle cx="21" cy="21" r="4" fill="#ff795f"/><circle cx="36" cy="21" r="4" fill="#ffd06b"/><circle cx="51" cy="21" r="4" fill="#b9e771"/>
  <text x="345" y="25" text-anchor="end" font-family="monospace" font-size="11" fill="#aaa99e">burger.js</text>
- <g font-family="monospace" font-size="15"><text x="22" y="74" fill="#e5adfb">const <tspan fill="#f6f3e9">burger = {</tspan></text><text x="36" y="101" fill="#f6f3e9">curiosity: <tspan fill="#b9e771">Infinity,</tspan></text><text x="36" y="128" fill="#f6f3e9">next: <tspan fill="#ffc66a">'build something cool'</tspan></text><text x="22" y="155" fill="#f6f3e9">};</text></g>
+ <g font-family="monospace" font-size="15"><text x="22" y="70" fill="#e5adfb">const <tspan fill="#f6f3e9">burger = {</tspan></text><text x="36" y="94" fill="#f6f3e9">curiosity: <tspan fill="#b9e771">Infinity,</tspan></text><text x="36" y="118" fill="#f6f3e9">shipped: <tspan fill="#ffc66a">['WasmBot','HEAT//SHIFT'],</tspan></text><text x="36" y="142" fill="#f6f3e9">next: <tspan fill="#ffc66a">'your team?'</tspan></text><text x="22" y="166" fill="#f6f3e9">};<tspan fill="#ffc66a"><animate attributeName="opacity" values="1;0;1" dur="1s" calcMode="discrete" repeatCount="indefinite"/>▍</tspan></text></g>
 </g>
 <g transform="translate(1150 48) rotate(13)"><path d="M0-18 5-5 18 0 5 5 0 18-5 5-18 0-5-5Z" fill="#252724"/></g>
 <path d="m792 318-17 10m9-32-19-1m21-17-15-10" stroke="#252724" stroke-width="4" stroke-linecap="round"/>
