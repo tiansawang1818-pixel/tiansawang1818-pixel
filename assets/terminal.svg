@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="t d">
+<title id="t">burger@mahidol terminal</title>
+<desc id="d">An animated terminal introducing Tiansawang Suetrong (MR.Burger), Digital Science and Technology student at Mahidol ICT, who has shipped WasmBot Studio, HEAT//SHIFT and a portfolio, and is open to software engineering internships in Bangkok.</desc>
+<defs>
+ <filter id="sh" x="-10%" y="-10%" width="120%" height="140%"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#201c14" flood-opacity=".22"/></filter>
+ <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity=".025"/></pattern>
+
+ <clipPath id="c0"><rect x="40" y="73" height="31" width="0"><animate attributeName="width" values="0;0;24.8;95.2;95.2;0" keyTimes="0;0.0187;0.0375;0.0875;0.9250;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+ <clipPath id="c3"><rect x="40" y="175" height="31" width="0"><animate attributeName="width" values="0;0;24.8;163.6;163.6;0" keyTimes="0;0.1688;0.1875;0.2500;0.9250;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+ <clipPath id="c5"><rect x="40" y="243" height="31" width="0"><animate attributeName="width" values="0;0;24.8;152.2;152.2;0" keyTimes="0;0.3312;0.3500;0.4062;0.9250;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+ <clipPath id="c7"><rect x="40" y="311" height="31" width="0"><animate attributeName="width" values="0;0;24.8;140.8;140.8;0" keyTimes="0;0.4937;0.5125;0.5687;0.9250;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<g filter="url(#sh)">
+ <rect x="20" y="10" width="1240" height="410" rx="18" fill="#252724"/>
+ <rect x="20" y="10" width="1240" height="410" rx="18" fill="url(#scan)"/>
+ <path d="M20 54H1260" stroke="#3a3c37"/>
+ <circle cx="48" cy="32" r="6" fill="#ff795f"/><circle cx="70" cy="32" r="6" fill="#ffd06b"/><circle cx="92" cy="32" r="6" fill="#b9e771"/>
+ <text x="640" y="37" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="14" fill="#8f8e85">burger@mahidol: ~</text>
+ <g transform="translate(1186 32)"><circle r="5" fill="#b9e771"><animate attributeName="opacity" values="1;.3;1" dur="1.4s" repeatCount="indefinite"/></circle><text x="-12" y="5" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#b9e771">LIVE</text></g>
+</g>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" xml:space="preserve">
+ <text x="44" y="96" clip-path="url(#c0)"><tspan fill="#ff6439">$ </tspan><tspan fill="#f6f3e9">whoami</tspan></text>
+ <text x="44" y="130" fill="#ffc66a" opacity="0">Tiansawang Suetrong  (a.k.a. MR.Burger)<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1062;0.1219;0.9250;1" dur="16.0s" repeatCount="indefinite"/></text>
+ <text x="44" y="164" fill="#aaa99e" opacity="0">Digital Science &amp; Technology · Faculty of ICT, Mahidol University<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1187;0.1344;0.9250;1" dur="16.0s" repeatCount="indefinite"/></text>
+ <text x="44" y="198" clip-path="url(#c3)"><tspan fill="#ff6439">$ </tspan><tspan fill="#f6f3e9">ls ~/shipped</tspan></text>
+ <text x="44.0" y="232" fill="#b9e771" font-weight="700" opacity="0">wasmbot-studio/<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.2687;0.2844;0.9250;1" dur="16.0s" repeatCount="indefinite"/></text><text x="249.2" y="232" fill="#ff795f" font-weight="700" opacity="0">heat-shift/<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.2844;0.3000;0.9250;1" dur="16.0s" repeatCount="indefinite"/></text><text x="408.8" y="232" fill="#e5adfb" font-weight="700" opacity="0">portfolio/<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.3000;0.3156;0.9250;1" dur="16.0s" repeatCount="indefinite"/></text>
+ <text x="44" y="266" clip-path="url(#c5)"><tspan fill="#ff6439">$ </tspan><tspan fill="#f6f3e9">cat now.txt</tspan></text>
+ <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.4250;0.4406;0.9250;1" dur="16.0s" repeatCount="indefinite"/><circle cx="52" cy="294" r="6" fill="#b9e771"><animate attributeName="r" values="6;8;6" dur="1.2s" repeatCount="indefinite"/></circle><text x="68" y="300" fill="#f6f3e9">Open to software engineering internships · Bangkok, UTC+7</text></g>
+ <text x="44" y="334" clip-path="url(#c7)"><tspan fill="#ff6439">$ </tspan><tspan fill="#f6f3e9">echo $NEXT</tspan></text>
+ <text x="44" y="368" fill="#ffc66a" opacity="0">"build something useful with your team"<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.5875;0.6031;0.9250;1" dur="16.0s" repeatCount="indefinite"/></text>
+ <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.6125;0.6281;0.9250;1" dur="16.0s" repeatCount="indefinite"/><text x="44" y="402" fill="#ff6439">$ </text><rect x="66.8" y="386" width="11.4" height="21" fill="#f6f3e9"><animate attributeName="opacity" values="1;0;1" dur="1s" calcMode="discrete" repeatCount="indefinite"/></rect></g>
+</g>
+</svg>

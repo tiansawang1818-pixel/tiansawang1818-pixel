@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/ticker.svg" width="100%" alt="Stack I ship with: TypeScript, React, Rust WebAssembly, Supabase, PostgreSQL, PostGIS, Python, FastAPI, Next.js, Redis, Celery, Java, Node.js, SQL, Docker" />
+</p>
+
+<p align="center">
   <a href="#a-person-before-a-profile">THE PERSON</a> &nbsp; / &nbsp;
   <a href="#fresh-off-the-grill">THE WORK</a> &nbsp; / &nbsp;
   <a href="#whats-in-my-kitchen">THE TOOLKIT</a> &nbsp; / &nbsp;
@@ -23,10 +27,9 @@ Hey, I’m **MR.Burger** 🍔 — **Tiansawang Suetrong**, a Digital Science and
 
 I like owning the whole system: the interface people touch, the API in the middle, and the data model underneath. Lately that has meant a no-code bot platform running on **Rust WebAssembly** and a map-first **geospatial** platform for Bangkok’s urban heat.
 
-```text
-📍 Bangkok, UTC+7        🎓 B.Sc. Digital Science & Technology, Mahidol ICT
-🟢 Open to software engineering internships
-```
+<p align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal: whoami → Tiansawang Suetrong (MR.Burger), Digital Science & Technology, Mahidol ICT. ls ~/shipped → wasmbot-studio, heat-shift, portfolio. cat now.txt → Open to software engineering internships, Bangkok UTC+7." />
+</p>
 
 <br />
 
