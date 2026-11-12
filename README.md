@@ -70,7 +70,7 @@ Two real products, both live. Click through and try them.
       </p>
       <p>
         <a href="https://heatshift.hostless.app/"><b>Open live app ↗</b></a> &nbsp;·&nbsp;
-        <sub>Private repository</sub>
+        <a href="https://github.com/tiansawang1818-pixel/HEAT">Source code ↗</a>
       </p>
     </td>
   </tr>
