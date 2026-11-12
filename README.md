@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://tiansawang1818-pixel.github.io/"><img src="https://img.shields.io/badge/Portfolio-tiansawang1818--pixel.github.io-252724?style=for-the-badge&labelColor=ff6439" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/tiansawang-suetrong-95715343b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-252724?style=for-the-badge&labelColor=7cc4ff" alt="LinkedIn" /></a>
   <a href="mailto:tiansawang1818@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-252724?style=for-the-badge&labelColor=ffc66a" alt="Email" /></a>
   <a href="https://tiansawang1818-pixel.github.io/resume.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-252724?style=for-the-badge&labelColor=b9e771" alt="Résumé" /></a>
 </p>
