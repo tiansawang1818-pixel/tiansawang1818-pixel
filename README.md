@@ -78,7 +78,7 @@ Two real products, both live. Click through and try them.
 </table>
 
 <p align="center">
-  <sub>More practice and coursework in my <a href="https://github.com/tiansawang1818-pixel?tab=repositories">repositories</a>, including <a href="https://github.com/tiansawang1818-pixel/python-calculator">python-calculator</a> (unit testing) and <a href="https://github.com/tiansawang1818-pixel/HTML101">HTML101</a> (web fundamentals).</sub>
+  <sub>More practice and coursework in my <a href="https://github.com/tiansawang1818-pixel?tab=repositories">repositories</a>, including <a href="https://github.com/tiansawang1818-pixel/HTML101">HTML101</a> (web fundamentals).</sub>
 </p>
 
 <br />
