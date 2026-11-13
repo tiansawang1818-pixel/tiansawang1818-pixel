@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/ticker.svg" width="100%" alt="My toolkit: Python, TypeScript, JavaScript, Java, SQL, HTML, CSS, Node.js, Express.js, PostgreSQL, MySQL, Supabase, Git, Linux, Postman" />
+  <img src="./assets/ticker.svg" width="100%" alt="My toolkit: Python, TypeScript, JavaScript, Java, SQL, HTML, CSS, Node.js, Express.js, MySQL, Supabase, Git, Linux, Postman" />
 </p>
 
 <p align="center">
@@ -91,13 +91,13 @@ Different ingredients. Plenty of things to build.
 | :--- | :--- |
 | **The foundations** | Python · TypeScript · JavaScript · Java · SQL |
 | **What you see** | HTML · CSS · JavaScript |
-| **Behind the scenes** | Node.js · Express.js · Web Services · PostgreSQL · MySQL · Supabase |
+| **Behind the scenes** | Node.js · Express.js · Web Services · MySQL · Supabase |
 | **On the drawing board** | ER modeling · Relational database design · Data validation |
 | **On the workbench** | Git · GitHub · VS Code · Linux · Postman · npm |
 
 <p align="center">
   <br />
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,html,css,nodejs,express,postgres,mysql,supabase,git,linux,postman&amp;perline=14&amp;theme=dark" alt="Python, TypeScript, JavaScript, Java, HTML, CSS, Node.js, Express.js, PostgreSQL, MySQL, Supabase, Git, Linux, Postman" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,html,css,nodejs,express,mysql,supabase,git,linux,postman&amp;perline=13&amp;theme=dark" alt="Python, TypeScript, JavaScript, Java, HTML, CSS, Node.js, Express.js, MySQL, Supabase, Git, Linux, Postman" />
 </p>
 
 <br />
